@@ -12,3 +12,4 @@ C:\Users\II Novbe\source\repos\Event-Project\Project.DAL\obj\Debug\net8.0\ref\Pr
 C:\Users\II Novbe\source\repos\Event-Project\Project.DAL\bin\Debug\net8.0\Project.DAL.runtimeconfig.json
 C:\Users\II Novbe\source\repos\Event-Project\Project.DAL\obj\Debug\net8.0\Project.DAL.csproj.AssemblyReference.cache
 C:\Users\II Novbe\source\repos\Event-Project\Project.DAL\obj\Debug\net8.0\Project.DAL.genruntimeconfig.cache
+C:\Users\II Novbe\source\repos\Event-Project\Project.DAL\obj\Debug\net8.0\Project.DAL.sourcelink.json

@@ -13,3 +13,4 @@ C:\Users\II Novbe\source\repos\Event-Project\Project.BL\bin\Debug\net8.0\Project
 C:\Users\II Novbe\source\repos\Event-Project\Project.BL\bin\Debug\net8.0\Project.DAL.pdb
 C:\Users\II Novbe\source\repos\Event-Project\Project.BL\obj\Debug\net8.0\Project.BL.csproj.AssemblyReference.cache
 C:\Users\II Novbe\source\repos\Event-Project\Project.BL\obj\Debug\net8.0\Project.BL.csproj.Up2Date
+C:\Users\II Novbe\source\repos\Event-Project\Project.BL\obj\Debug\net8.0\Project.BL.sourcelink.json

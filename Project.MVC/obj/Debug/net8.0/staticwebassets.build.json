@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xo1GiFZuMkw63boFbw13TcluXoz2mHHL9jrAoueOggA=",
+  "Hash": "71zK1aDd93d+VMq8fKrZCZcfwHiJ4fqS/CosXcKC/TI=",
   "Source": "Project.MVC",
   "BasePath": "_content/Project.MVC",
   "Mode": "Default",
@@ -946,6 +946,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\uploadedImages\\speakers-img45de1c425-bee5-46cb-a80c-4281ff89d162.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\uploadedImages\\speakers-img4c2f0ef21-0c35-46bb-aa66-c5e304eda89b.jpg",
+      "SourceId": "Project.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\",
+      "BasePath": "_content/Project.MVC",
+      "RelativePath": "assets/uploadedImages/speakers-img4c2f0ef21-0c35-46bb-aa66-c5e304eda89b.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\uploadedImages\\speakers-img4c2f0ef21-0c35-46bb-aa66-c5e304eda89b.jpg"
     }
   ]
 }

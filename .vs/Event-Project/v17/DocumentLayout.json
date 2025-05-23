@@ -3,76 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00FCAC3A-E547-4A28-BFD9-3492070148F2}|Project.DAL\\Project.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\event-project\\project.dal\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00FCAC3A-E547-4A28-BFD9-3492070148F2}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00FCAC3A-E547-4A28-BFD9-3492070148F2}|Project.DAL\\Project.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\event-project\\project.dal\\contexts\\cartdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FCAC3A-E547-4A28-BFD9-3492070148F2}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\contexts\\cartdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DD017A-2A6C-4F31-BB71-B0B43C68FC76}|Project.MVC\\Project.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\event-project\\project.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92DD017A-2A6C-4F31-BB71-B0B43C68FC76}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DD017A-2A6C-4F31-BB71-B0B43C68FC76}|Project.MVC\\Project.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\event-project\\project.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92DD017A-2A6C-4F31-BB71-B0B43C68FC76}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00FCAC3A-E547-4A28-BFD9-3492070148F2}|Project.DAL\\Project.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\event-project\\project.dal\\models\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00FCAC3A-E547-4A28-BFD9-3492070148F2}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\models\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92DD017A-2A6C-4F31-BB71-B0B43C68FC76}|Project.MVC\\Project.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\event-project\\project.mvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{92DD017A-2A6C-4F31-BB71-B0B43C68FC76}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{00FCAC3A-E547-4A28-BFD9-3492070148F2}|Project.DAL\\Project.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\event-project\\project.dal\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FCAC3A-E547-4A28-BFD9-3492070148F2}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92DD017A-2A6C-4F31-BB71-B0B43C68FC76}|Project.MVC\\Project.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\event-project\\project.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{92DD017A-2A6C-4F31-BB71-B0B43C68FC76}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92DD017A-2A6C-4F31-BB71-B0B43C68FC76}|Project.MVC\\Project.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\event-project\\project.mvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{92DD017A-2A6C-4F31-BB71-B0B43C68FC76}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92DD017A-2A6C-4F31-BB71-B0B43C68FC76}|Project.MVC\\Project.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\event-project\\project.mvc\\areas\\admin\\views\\dashboard\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{92DD017A-2A6C-4F31-BB71-B0B43C68FC76}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\areas\\admin\\views\\dashboard\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21013565-6A5E-4AB6-BAF6-3A0548241044}|Project.BL\\Project.BL.csproj|c:\\users\\ii novbe\\source\\repos\\event-project\\project.bl\\viewmodels\\createcartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21013565-6A5E-4AB6-BAF6-3A0548241044}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\viewmodels\\createcartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92DD017A-2A6C-4F31-BB71-B0B43C68FC76}|Project.MVC\\Project.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\event-project\\project.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{92DD017A-2A6C-4F31-BB71-B0B43C68FC76}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92DD017A-2A6C-4F31-BB71-B0B43C68FC76}|Project.MVC\\Project.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\event-project\\project.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{92DD017A-2A6C-4F31-BB71-B0B43C68FC76}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92DD017A-2A6C-4F31-BB71-B0B43C68FC76}|Project.MVC\\Project.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\event-project\\project.mvc\\areas\\admin\\views\\dashboard\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{92DD017A-2A6C-4F31-BB71-B0B43C68FC76}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\areas\\admin\\views\\dashboard\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21013565-6A5E-4AB6-BAF6-3A0548241044}|Project.BL\\Project.BL.csproj|c:\\users\\ii novbe\\source\\repos\\event-project\\project.bl\\viewmodels\\updatecartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21013565-6A5E-4AB6-BAF6-3A0548241044}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\viewmodels\\updatecartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21013565-6A5E-4AB6-BAF6-3A0548241044}|Project.BL\\Project.BL.csproj|c:\\users\\ii novbe\\source\\repos\\event-project\\project.bl\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21013565-6A5E-4AB6-BAF6-3A0548241044}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92DD017A-2A6C-4F31-BB71-B0B43C68FC76}|Project.MVC\\Project.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\event-project\\project.mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92DD017A-2A6C-4F31-BB71-B0B43C68FC76}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92DD017A-2A6C-4F31-BB71-B0B43C68FC76}|Project.MVC\\Project.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\event-project\\project.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{92DD017A-2A6C-4F31-BB71-B0B43C68FC76}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{92DD017A-2A6C-4F31-BB71-B0B43C68FC76}|Project.MVC\\Project.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\event-project\\project.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92DD017A-2A6C-4F31-BB71-B0B43C68FC76}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21013565-6A5E-4AB6-BAF6-3A0548241044}|Project.BL\\Project.BL.csproj|c:\\users\\ii novbe\\source\\repos\\event-project\\project.bl\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21013565-6A5E-4AB6-BAF6-3A0548241044}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00FCAC3A-E547-4A28-BFD9-3492070148F2}|Project.DAL\\Project.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\event-project\\project.dal\\models\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00FCAC3A-E547-4A28-BFD9-3492070148F2}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\models\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00FCAC3A-E547-4A28-BFD9-3492070148F2}|Project.DAL\\Project.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\event-project\\project.dal\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00FCAC3A-E547-4A28-BFD9-3492070148F2}|Project.DAL\\Project.DAL.csproj|solutionrelative:project.dal\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92DD017A-2A6C-4F31-BB71-B0B43C68FC76}|Project.MVC\\Project.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\event-project\\project.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92DD017A-2A6C-4F31-BB71-B0B43C68FC76}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21013565-6A5E-4AB6-BAF6-3A0548241044}|Project.BL\\Project.BL.csproj|c:\\users\\ii novbe\\source\\repos\\event-project\\project.bl\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21013565-6A5E-4AB6-BAF6-3A0548241044}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21013565-6A5E-4AB6-BAF6-3A0548241044}|Project.BL\\Project.BL.csproj|c:\\users\\ii novbe\\source\\repos\\event-project\\project.bl\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21013565-6A5E-4AB6-BAF6-3A0548241044}|Project.BL\\Project.BL.csproj|solutionrelative:project.bl\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DD017A-2A6C-4F31-BB71-B0B43C68FC76}|Project.MVC\\Project.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\event-project\\project.mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92DD017A-2A6C-4F31-BB71-B0B43C68FC76}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DD017A-2A6C-4F31-BB71-B0B43C68FC76}|Project.MVC\\Project.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\event-project\\project.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{92DD017A-2A6C-4F31-BB71-B0B43C68FC76}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92DD017A-2A6C-4F31-BB71-B0B43C68FC76}|Project.MVC\\Project.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\event-project\\project.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92DD017A-2A6C-4F31-BB71-B0B43C68FC76}|Project.MVC\\Project.MVC.csproj|solutionrelative:project.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,89 +58,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppRole.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.DAL\\Models\\AppRole.cs",
-              "RelativeDocumentMoniker": "Project.DAL\\Models\\AppRole.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.DAL\\Models\\AppRole.cs",
-              "RelativeToolTip": "Project.DAL\\Models\\AppRole.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T12:31:41.466Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.DAL\\Models\\AppUser.cs",
-              "RelativeDocumentMoniker": "Project.DAL\\Models\\AppUser.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.DAL\\Models\\AppUser.cs",
-              "RelativeToolTip": "Project.DAL\\Models\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T12:28:31.488Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Project.MVC\\Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "Project.MVC\\Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-23T12:22:35.758Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Project.MVC\\Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "Project.MVC\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-23T12:20:35.072Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Project.MVC\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Project.MVC\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T12:20:10.097Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "AccountService.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.BL\\Services\\AccountService.cs",
-              "RelativeDocumentMoniker": "Project.BL\\Services\\AccountService.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.BL\\Services\\AccountService.cs",
-              "RelativeToolTip": "Project.BL\\Services\\AccountService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T12:19:14.144Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Project.MVC\\Views\\Shared\\_Layout.cshtml",
@@ -173,149 +71,150 @@
               "ViewState": "AgIAADMAAAAAAAAAAAAAAEMAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-23T12:15:11.948Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UpdateCartVM.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.BL\\ViewModels\\UpdateCartVM.cs",
-              "RelativeDocumentMoniker": "Project.BL\\ViewModels\\UpdateCartVM.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.BL\\ViewModels\\UpdateCartVM.cs",
-              "RelativeToolTip": "Project.BL\\ViewModels\\UpdateCartVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Project.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Project.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T12:08:57.171Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CreateCartVM.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.BL\\ViewModels\\CreateCartVM.cs",
-              "RelativeDocumentMoniker": "Project.BL\\ViewModels\\CreateCartVM.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.BL\\ViewModels\\CreateCartVM.cs",
-              "RelativeToolTip": "Project.BL\\ViewModels\\CreateCartVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T12:04:29.921Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\Areas\\Admin\\Views\\Dashboard\\Update.cshtml",
-              "RelativeDocumentMoniker": "Project.MVC\\Areas\\Admin\\Views\\Dashboard\\Update.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\Areas\\Admin\\Views\\Dashboard\\Update.cshtml",
-              "RelativeToolTip": "Project.MVC\\Areas\\Admin\\Views\\Dashboard\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-23T11:43:10.247Z",
+              "WhenOpened": "2025-05-23T14:10:42.323Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
-              "RelativeDocumentMoniker": "Project.MVC\\Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
-              "RelativeToolTip": "Project.MVC\\Areas\\Admin\\Views\\Dashboard\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-23T11:15:36.448Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Project.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Project.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-23T11:07:22.707Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "Project.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "Project.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-23T11:03:31.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "Project.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "Project.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGYAAAAEAAAAAAAAAA==",
+              "Title": "BaseClass.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.DAL\\Models\\BaseClass.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\Models\\BaseClass.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.DAL\\Models\\BaseClass.cs",
+              "RelativeToolTip": "Project.DAL\\Models\\BaseClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T11:03:23.572Z",
+              "WhenOpened": "2025-05-23T13:53:18.872Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 6,
               "Title": "Cart.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.DAL\\Models\\Cart.cs",
               "RelativeDocumentMoniker": "Project.DAL\\Models\\Cart.cs",
               "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.DAL\\Models\\Cart.cs",
               "RelativeToolTip": "Project.DAL\\Models\\Cart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T10:27:12.146Z",
+              "WhenOpened": "2025-05-23T13:53:16.01Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Project.MVC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Project.MVC\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAgwIMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-23T10:18:45.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 8,
               "Title": "CartService.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.BL\\Services\\CartService.cs",
               "RelativeDocumentMoniker": "Project.BL\\Services\\CartService.cs",
               "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.BL\\Services\\CartService.cs",
               "RelativeToolTip": "Project.BL\\Services\\CartService.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAQwEIAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T10:39:55.626Z",
+              "WhenOpened": "2025-05-23T13:43:48.376Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 3,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.DAL\\Models\\AppRole.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\Models\\AppRole.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.DAL\\Models\\AppRole.cs",
+              "RelativeToolTip": "Project.DAL\\Models\\AppRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:19:07.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Project.MVC\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Project.MVC\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:25:04.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.DAL\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.DAL\\Models\\AppUser.cs",
+              "RelativeToolTip": "Project.DAL\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:00:00.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.BL\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Project.BL\\Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.BL\\Services\\AccountService.cs",
+              "RelativeToolTip": "Project.BL\\Services\\AccountService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:58:02.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "Project.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\appsettings.json",
+              "RelativeToolTip": "Project.MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-23T12:52:56.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\Program.cs",
               "RelativeDocumentMoniker": "Project.MVC\\Program.cs",
               "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\Program.cs",
               "RelativeToolTip": "Project.MVC\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAxwBAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T10:25:10.888Z",
+              "WhenOpened": "2025-05-23T12:52:08.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.DAL\\Contexts\\CartDBContext.cs",
+              "RelativeDocumentMoniker": "Project.DAL\\Contexts\\CartDBContext.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.DAL\\Contexts\\CartDBContext.cs",
+              "RelativeToolTip": "Project.DAL\\Contexts\\CartDBContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:50:13.718Z",
               "EditorCaption": ""
             }
           ]

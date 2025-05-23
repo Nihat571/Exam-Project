@@ -197,6 +197,10 @@
       "PackagePath": "staticwebassets\\assets\\uploadedImages\\speakers-img45de1c425-bee5-46cb-a80c-4281ff89d162.jpg"
     },
     {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\uploadedImages\\speakers-img4c2f0ef21-0c35-46bb-aa66-c5e304eda89b.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\speakers-img4c2f0ef21-0c35-46bb-aa66-c5e304eda89b.jpg"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Project.MVC.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

@@ -1,0 +1,217 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\css\\owl.theme.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.theme.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\images\\contact-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\images\\intro-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\intro-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\images\\overview-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\overview-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\images\\program-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\program-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\images\\program-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\program-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\images\\program-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\program-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\images\\program-img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\program-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\images\\program-img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\program-img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\images\\program-img6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\program-img6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\images\\program-img7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\program-img7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\images\\program-img8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\program-img8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\images\\program-img9.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\program-img9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\images\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\images\\speakers-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\speakers-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\images\\speakers-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\speakers-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\images\\speakers-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\speakers-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\images\\speakers-img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\speakers-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\images\\speakers-img5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\speakers-img5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\images\\sponsor-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\sponsor-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\images\\sponsor-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\sponsor-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\images\\sponsor-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\sponsor-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\images\\sponsor-img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\sponsor-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\images\\venue-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\venue-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\js\\jquery.parallax.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.parallax.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\js\\smoothscroll.js",
+      "PackagePath": "staticwebassets\\assets\\js\\smoothscroll.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\uploadedImages\\default-image.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\default-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\uploadedImages\\speakers-img1fab447e2-4ed0-4038-a6a2-f669ffbac833.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\speakers-img1fab447e2-4ed0-4038-a6a2-f669ffbac833.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\uploadedImages\\speakers-img2.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\speakers-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\uploadedImages\\speakers-img2d5dc395f-1dff-492c-a91a-4c6e4a4c58f3.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\speakers-img2d5dc395f-1dff-492c-a91a-4c6e4a4c58f3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\uploadedImages\\speakers-img3.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\speakers-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\uploadedImages\\speakers-img4.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\speakers-img4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\Event-Project\\Project.MVC\\wwwroot\\assets\\uploadedImages\\speakers-img45de1c425-bee5-46cb-a80c-4281ff89d162.jpg",
+      "PackagePath": "staticwebassets\\assets\\uploadedImages\\speakers-img45de1c425-bee5-46cb-a80c-4281ff89d162.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Project.MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Project.MVC.props",
+      "PackagePath": "build\\Project.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Project.MVC.props",
+      "PackagePath": "buildMultiTargeting\\Project.MVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Project.MVC.props",
+      "PackagePath": "buildTransitive\\Project.MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
